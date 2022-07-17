@@ -1,6 +1,6 @@
 # SQL-Project
 
-In this SQL project, it shows the process in cleaning and exploring the Sales dataset that was available on Kaggle [URL to dataset] (attached original dataset).
+In this SQL project, it shows the process in cleaning and exploring the Sales dataset that was available on Kaggle (https://www.kaggle.com/datasets/gaurang0405/item-sales.)
 
 The dataset was broken into three separate files and they were the following:
 1. Customer table - Contains the following columns: 
